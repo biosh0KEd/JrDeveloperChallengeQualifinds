@@ -1,0 +1,14 @@
+C:\Users\efrai\Downloads\JrDeveloperChallenge\JrDeveloperChallenge\bin\Debug\netcoreapp2.1\JrDeveloperChallenge.deps.json
+C:\Users\efrai\Downloads\JrDeveloperChallenge\JrDeveloperChallenge\bin\Debug\netcoreapp2.1\JrDeveloperChallenge.runtimeconfig.json
+C:\Users\efrai\Downloads\JrDeveloperChallenge\JrDeveloperChallenge\bin\Debug\netcoreapp2.1\JrDeveloperChallenge.runtimeconfig.dev.json
+C:\Users\efrai\Downloads\JrDeveloperChallenge\JrDeveloperChallenge\bin\Debug\netcoreapp2.1\JrDeveloperChallenge.dll
+C:\Users\efrai\Downloads\JrDeveloperChallenge\JrDeveloperChallenge\bin\Debug\netcoreapp2.1\JrDeveloperChallenge.pdb
+C:\Users\efrai\Downloads\JrDeveloperChallenge\JrDeveloperChallenge\obj\Debug\netcoreapp2.1\JrDeveloperChallenge.csprojAssemblyReference.cache
+C:\Users\efrai\Downloads\JrDeveloperChallenge\JrDeveloperChallenge\obj\Debug\netcoreapp2.1\JrDeveloperChallenge.csproj.CoreCompileInputs.cache
+C:\Users\efrai\Downloads\JrDeveloperChallenge\JrDeveloperChallenge\obj\Debug\netcoreapp2.1\JrDeveloperChallenge.RazorAssemblyInfo.cache
+C:\Users\efrai\Downloads\JrDeveloperChallenge\JrDeveloperChallenge\obj\Debug\netcoreapp2.1\JrDeveloperChallenge.RazorAssemblyInfo.cs
+C:\Users\efrai\Downloads\JrDeveloperChallenge\JrDeveloperChallenge\obj\Debug\netcoreapp2.1\JrDeveloperChallenge.AssemblyInfoInputs.cache
+C:\Users\efrai\Downloads\JrDeveloperChallenge\JrDeveloperChallenge\obj\Debug\netcoreapp2.1\JrDeveloperChallenge.AssemblyInfo.cs
+C:\Users\efrai\Downloads\JrDeveloperChallenge\JrDeveloperChallenge\obj\Debug\netcoreapp2.1\JrDeveloperChallenge.RazorTargetAssemblyInfo.cache
+C:\Users\efrai\Downloads\JrDeveloperChallenge\JrDeveloperChallenge\obj\Debug\netcoreapp2.1\JrDeveloperChallenge.dll
+C:\Users\efrai\Downloads\JrDeveloperChallenge\JrDeveloperChallenge\obj\Debug\netcoreapp2.1\JrDeveloperChallenge.pdb
